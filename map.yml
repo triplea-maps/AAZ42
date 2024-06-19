@@ -1,0 +1,7 @@
+map_name: AAZ42
+games:
+- game_name: AAZ42-NZ
+  file_name: AAZ42-NZ.xml
+- game_name: AAZ42
+  file_name: AAZ42.xml
+version: 0
